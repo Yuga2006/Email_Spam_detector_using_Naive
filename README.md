@@ -1,4 +1,3 @@
-Here's a sample README file for your email spam detection model, including setup instructions, usage, and integration with Gmail.
 
 ---
 
