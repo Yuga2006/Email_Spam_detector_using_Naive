@@ -81,10 +81,6 @@ Classification: Ham
 - The `token.pickle` file is automatically created after the first authentication and stores your OAuth 2.0 credentials.
 - For production use, handle pagination in Gmail API responses and improve error handling.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to modify and expand this README based on your specific requirements and project details.
